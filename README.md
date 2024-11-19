@@ -1,6 +1,13 @@
 # Tableau-Viz-Project
 
 ## Table of Content
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ## Project Overview
 In this project, we explored data from the AirBnB industry in Seattle, Washington State, USA. Through our exploration, we were able to isolate trends indicative of what areas one might either invest in or book a stay. All our findings are then presented in a dashboard on [Tableau Public](https://public.tableau.com/app/profile/henry.utomudo/viz/airbnbprojectbyhenryutomudo/Dashboard1 "Henry Utomudo's Tablue Profile")
@@ -42,7 +49,7 @@ This visualization shows that there are more one bedroom apartments in the listi
 Answer: ![Screenshot (7)](https://github.com/user-attachments/assets/c4d0a8dd-33d3-4e45-a719-6647738e8796)
 This graph shows that owners can make the most money during december, as the uptick shows the year ending with $2,110,350 in revenue.
 
-##Recommendations
+## Recommendations
 Judging from the data and our findings;
 - The best times to put your apartment up for use as an AirBnB apartment would be June and December.
 - Try to book apartments with 2 and 3 bedrooms listed, they cost less on average and have a higher availability all year round.
