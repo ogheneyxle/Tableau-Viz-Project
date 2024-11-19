@@ -20,7 +20,7 @@ AirBnB Data: The primary data source for this tableau project is the "TableauFul
 - Tableau Public
 
 ## Data Preparation
-Owing to fact that our data source is an ".xlsx" file, we first had to clean it using the most appropriate application for it, Microsoft Excel. Upon reviewing the data, there wasn't much cleaning to be done, so we could load it onto Tabluea Public for the dashboard creation.
+Owing to the fact that our data source is an ".xlsx" file, we first had to clean it using the most appropriate application for it, Microsoft Excel. Upon reviewing the data, there wasn't much cleaning to be done, so we could load it onto Tabluea Public for the dashboard creation.
 
 ## Data Analysis
 As part of this data exploration project, we set out to answer certain questions whose answers would best inform potential newcomers to the market, customers and even investors on how to proceed. Our analysis involved the following queries;
