@@ -3,7 +3,7 @@
 ## Table of Content
 
 ## Project Overview
-In this project, we explored data from the AirBnB industry in Seattle, Washington State, USA. Through our exploration, we were able to isolate trends indicative of what areas one might either invest in or book a stay. 
+In this project, we explored data from the AirBnB industry in Seattle, Washington State, USA. Through our exploration, we were able to isolate trends indicative of what areas one might either invest in or book a stay. All our findings are then presented in a dashboard on [Tableau Public](https://public.tableau.com/app/profile/henry.utomudo/viz/airbnbprojectbyhenryutomudo/Dashboard1 "Henry Utomudo's Tablue Profile")
 
 ## Data Sources
 AirBnB Data: The primary data source for this tableau project is the "TableauFullProject.xlsx", which holds the data on the AirBnB apartment types, customers, reviews, amongst other information.
