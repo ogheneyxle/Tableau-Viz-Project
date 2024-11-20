@@ -5,6 +5,7 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Preparation](#data-preparation)
+- [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
